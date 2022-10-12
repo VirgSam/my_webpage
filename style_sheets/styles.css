@@ -1,17 +1,18 @@
-body {background-image: url(https://images.unsplash.com/photo-1597633425046-08f5110420b5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80);
+body {background-image: url(https://images.unsplash.com/photo-1624938518616-3be0add427d1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80);
       background-size: cover;
       background-repeat:no-repeat ;  
 }
 h1 {color: blue;font-family: verdana;font-size: 300%;}
-p {color: rgb(15, 15, 15);font-family: courier;font-size: 160%;}
+p {color: #f5efef;font-family: courier;font-size: 100%;}
 .city {
     display: flex;
     flex-direction: row;
-    background-color: tomato;
+    background-color: rgba(221, 214, 213, 0.411);
     color: white;
     border: 2px solid black;
     margin: 20px;
     padding: 20px;
+        
     }
 #jedi{color: yellowgreen;}
 #resizepic{
@@ -19,7 +20,7 @@ p {color: rgb(15, 15, 15);font-family: courier;font-size: 160%;}
 
 }
 .jarjar{
-        background-color: lightgrey;
+        background-color: rgba(211, 211, 211, 0.438);
         width: 400px;
         border: 15px solid green;
         padding: 50px;
