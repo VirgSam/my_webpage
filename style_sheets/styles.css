@@ -1,6 +1,6 @@
 body {background-color: powderblue;}
 h1 {color: blue;font-family: verdana;font-size: 300%;}
-p {color: red;font-family: courier;font-size: 160%;}
+p {color: rgb(15, 15, 15);font-family: courier;font-size: 160%;}
 .city {
     background-color: tomato;
     color: white;
@@ -8,3 +8,4 @@ p {color: red;font-family: courier;font-size: 160%;}
     margin: 20px;
     padding: 20px;
     }
+#jedi{color: yellowgreen;}
