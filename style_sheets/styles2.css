@@ -1,0 +1,16 @@
+body{}
+h1{}
+p{}
+div{}
+#logo{
+    width: 110px;
+    }
+footer{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+        }
+#menu-navigation {
+    display: flex;
+    list-style: none;
+               }
